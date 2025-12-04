@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Anshit Kashyap 👋
+# Hi, I'm <Your Name>  
 
-<!--
-**Anshitk09/Anshitk09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A fellow Cybersecurity Enthusiast  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently learning: Bash scripting, reverse engineering, web security  
+- 💬 Ask me about: Kali Linux, Python, Java, statistics  
+- 📫 How to reach me:
+- <12banshit.38363@gmail.com>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](<[your_linkedin_url](https://www.linkedin.com/in/anshit-kashyap/)>)
+
+## Languages and Tools
+## Languages and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40"/> 
+
+Python · Bash · Java · Kali Linux · Git · Linux
