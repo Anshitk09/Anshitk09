@@ -4,12 +4,11 @@ A fellow Cybersecurity Enthusiast
 
 - 🔭 I’m currently learning: Bash scripting, reverse engineering, web security  
 - 💬 Ask me about: Kali Linux, Python, Java, statistics  
-- 📫 How to reach me:
-- <12banshit.38363@gmail.com>
+- 📫 How to reach me: <12banshit.38363@gmail.com>
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](<[your_linkedin_url](https://www.linkedin.com/in/anshit-kashyap/)>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<[your_linkedin_url](https://www.linkedin.com/in/anshit-kashyap/)>)
 
 ## Languages and Tools
 ## Languages and Tools
