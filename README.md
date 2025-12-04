@@ -8,7 +8,7 @@ A fellow Cybersecurity Enthusiast
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<[your_linkedin_url](https://www.linkedin.com/in/anshit-kashyap/)>)
+[!(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<[your_linkedin_url](https://www.linkedin.com/in/anshit-kashyap/)>)
 
 ## Languages and Tools
 ## Languages and Tools
