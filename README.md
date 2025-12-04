@@ -8,7 +8,10 @@ A fellow Cybersecurity Enthusiast
 
 ## Connect with me
 
-[!(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<[your_linkedin_url](https://www.linkedin.com/in/anshit-kashyap/)>)
+<a href="https://www.linkedin.com/in/anshit-kashyap/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Anshit Kashyap" height="30" width="40" />
+</a>
+
 
 ## Languages and Tools
 ## Languages and Tools
