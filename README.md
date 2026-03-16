@@ -12,7 +12,7 @@ A fellow Cybersecurity Enthusiast
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Anshit Kashyap" height="30" width="40" />
 </a>
 
-<a href="https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME" target="_blank">
+<a href="https://tryhackme.com/p/anshitk" target="_blank">
   <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe - Anshit Kashyap" height="30" width="30" />
 </a>
 
