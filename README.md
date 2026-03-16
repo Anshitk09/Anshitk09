@@ -2,7 +2,7 @@
 
 A fellow Cybersecurity Enthusiast  
 
-- 🔭 I’m currently learning: Bash scripting, reverse engineering, web security  
+- 🔭 I’m currently learning: Bash scripting, reverse engineering, web security, digital forensics  
 - 💬 Ask me about: Kali Linux, Python, Java, statistics  
 - 📫 How to reach me: <12banshit.38363@gmail.com>
 
@@ -10,6 +10,10 @@ A fellow Cybersecurity Enthusiast
 
 <a href="https://www.linkedin.com/in/anshit-kashyap/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Anshit Kashyap" height="30" width="40" />
+</a>
+
+<a href="https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME" target="_blank">
+  <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe - Anshit Kashyap" height="30" width="30" />
 </a>
 
 
