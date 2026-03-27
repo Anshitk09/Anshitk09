@@ -1,10 +1,9 @@
-# Hi, I'm Vivek Chandra
-
+# Hi, I'm Anshit Kashyap
 A fellow Cybersecurity Enthusiast  
 
 - 🔭 I’m currently learning: Bash scripting, reverse engineering, web security, digital forensics  
 - 💬 Ask me about: Kali Linux, Python, Java, statistics  
-- 📫 How to reach me: <vivekchandra5772@gmail.com>
+- 📫 How to reach me: <12banshit.38363@gmail.com>
 
 ## Connect with me
 
